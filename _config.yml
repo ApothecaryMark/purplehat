@@ -137,7 +137,7 @@ prose:
           value: true
   media: "img"
   ignore:
-    - .github/ISSUE_TEMPLATE
+    - /.github
     - /_includes
     - /_layouts
     - /css
@@ -150,6 +150,9 @@ prose:
     - Rakefile
     - sitemap.xml
     - feed.xml
+    - .travis.yml
+    - screenshot.png
+    - style.css
     - readme.html
     - README.md
     - .gitignore
