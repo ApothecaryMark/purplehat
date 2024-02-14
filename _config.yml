@@ -139,6 +139,7 @@ prose:
     - /.github
     - /_includes
     - /_layouts
+    - /_posts
     - /css
     - /js
     - /img
@@ -148,6 +149,8 @@ prose:
     - CNAME
     - Rakefile
     - sitemap.xml
+    - coaching.md
+    - test.md
     - feed.xml
     - .travis.yml
     - screenshot.png
