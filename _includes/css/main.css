@@ -36,14 +36,18 @@ a.active {
     text-decoration: underline;
 }
 
-#about a.btn-outline,
+#about a.btn-outline {
+    outline: 0;
+    color: #{{ site.color.secondary }};
+    text-decoration: none;
+}
+
 #about a.btn-outline:hover,
 #about a.btn-outline:focus,
 #about a.btn-outline:active,
 #about a.btn-outline.active {
-    outline: 0;
-    color: #{{ site.color.secondary }};
-    text-decoration: none;
+    color: #fff;
+    background-color: #{{ site.color.secondary }};
 }
 
 h1,
@@ -346,7 +350,7 @@ section#contact {
 }
 
 input::placeholder {
-  color: #{{ site.color.tertiary }};
+  color: #{{ site.color.tertiary }} !important;
 }
 
 .floating-label-form-group input,
