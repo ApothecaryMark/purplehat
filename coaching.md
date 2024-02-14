@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: coaching
 published: true
 title: Coachinggg
 permalink: /coaching/
