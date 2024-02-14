@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name                    = "freelancer-theme-jekyll"
-  spec.version                 = "1.0.1"
+  spec.version                 = "4.1.0"
   spec.authors                 = ["Start Bootstrap"]
 
   spec.summary                 = %q{Freelancer is a one page Bootstrap portfolio theme for freelancers.}
