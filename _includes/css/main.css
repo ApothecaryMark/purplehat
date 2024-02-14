@@ -364,6 +364,10 @@ input::placeholder {
     color: #fff;
 }
 
+.floating-label-form-group::placeholder {
+    color: #{{ site.color.tertiary }};
+}
+
 .floating-label-form-group label {
     display: block;
     z-index: 0;
