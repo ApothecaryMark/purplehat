@@ -349,7 +349,7 @@ section#contact {
     border-bottom: 1px solid #eee;
 }
 
-input::placeholder {
+input::placeholder, textarea::placeholder {
   color: #{{ site.color.tertiary }} !important;
 }
 
