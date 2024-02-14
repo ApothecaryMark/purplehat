@@ -67,7 +67,7 @@ defaults:
 
 #collections
 collections:
- about:
+ sections:
 
 prose:
   metadata:
