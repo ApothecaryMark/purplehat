@@ -23,6 +23,16 @@ a:active,
 a.active {
     outline: 0;
     color: #{{ site.color.secondary }};
+    text-decoration: none;
+}
+
+#about a,
+#about a:hover,
+#about a:focus,
+#about a:active,
+#about a.active {
+    outline: 0;
+    color: #{{ site.color.secondary }};
     text-decoration: underline;
 }
 
