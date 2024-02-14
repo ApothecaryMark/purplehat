@@ -18,9 +18,14 @@ r<!DOCTYPE html>
       </div>
     </div>
     <div class="row">
-{% for section in site.sections %}
- <center><h3>{{ section.title }}</h3></center>
-      {{ section.content | markdownify }}
+{% for section in site.about %}
+      <div class="row">
+        <div class="col-lg-10 col-lg-offset-1">
+           <center><h3>{{ section.title }}</h3></center>
+          <hr class="star-primary">
+          {{ section.content | markdownify }}
+        </div>
+      </div>
 {% endfor %}
 
       
