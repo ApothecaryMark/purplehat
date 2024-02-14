@@ -18,6 +18,12 @@
       </div>
     </div>
     <div class="row">
+{% for section in site.sections %}
+ <h3>{{ section.title }}</h3>
+      {{ content }}
+{% endfor %}
+
+      
        <div class="col-lg-8 col-lg-offset-2">
           <center><a href="#contact" class="btn btn-lg btn-outline page-scroll">
           <i class="fa fa-envelope"></i> Contact Me
@@ -25,7 +31,6 @@
          <br/>
          <br/>
        </div>
-
     <div class="col-lg-10 col-lg-offset-1">
    {{ content }}
     </div>
