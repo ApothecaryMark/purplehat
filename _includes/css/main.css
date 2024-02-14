@@ -36,6 +36,16 @@ a.active {
     text-decoration: underline;
 }
 
+#about a.btn-outline,
+#about a.btn-outline:hover,
+#about a.btn-outline:focus,
+#about a.btn-outline:active,
+#about a.btn-outline.active {
+    outline: 0;
+    color: #{{ site.color.secondary }};
+    text-decoration: underline;
+}
+
 h1,
 h2,
 h3,
