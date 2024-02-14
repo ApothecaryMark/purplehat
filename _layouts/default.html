@@ -6,6 +6,8 @@ r<!DOCTYPE html>
   {% include nav.html %}
   {% include header.html %}
   {% include portfolio_grid.html %}
+
+  <div class="row">
   {% for section in site.about %}
           <div class="col-lg-10 col-lg-offset-1">
              <center><h3>{{ section.title }}</h3></center>
@@ -15,6 +17,7 @@ r<!DOCTYPE html>
             <br/>
           </div>
   {% endfor %}
+  </div>
   {% if site.contact == "static" %}
   {% include contact_static.html %}
   {% elsif site.contact == "disqus" %}
