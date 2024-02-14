@@ -1,4 +1,5 @@
 ---
+layout: section
 published: true
 ---
 
