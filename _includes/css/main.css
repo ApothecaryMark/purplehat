@@ -43,7 +43,7 @@ a.active {
 #about a.btn-outline.active {
     outline: 0;
     color: #{{ site.color.secondary }};
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 h1,
