@@ -2,9 +2,9 @@
 title: Mark Cutter
 email: mark@innovationinsociety.com
 url: https://apothecarymark.github.io/purplehat
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Disability advocate, coach, trainee counselling psychologist and psychotherapist, accessible transport specialist and speaker"
 keywords: "counselling psychology, psychotherapy, coaching"
-skills: "Trainee Counselling Psychologist - Integrative Psychotherapist - Coach"
+skills: "Disability Advocate - Coach - Trainee Counselling Psychologist and Psychotherapist - Accessible Transport Specialist - Speaker"
 meta_author: Cutter Mark
 
 # Google webmaster tools
@@ -34,7 +34,7 @@ color:
 # Footer settings
 footer:
   copyright: Mark Cutter
-  location: Location
+  location: Professional Registration
   social: Around the Web
   credits: Email Me
 
@@ -47,8 +47,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Lancaster, UK
-  - line: London, UK
+  - line: I am a trainee member of both the BPS (registration number 532729) and UKCP (registration number 2011188374).
+  
 
 # Credits content
 credits: "Email mark@innovationinsociety.com if you'd like to talk more."
