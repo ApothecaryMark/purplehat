@@ -22,7 +22,8 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
+    text-decoration: underline;
 }
 
 h1,
@@ -293,6 +294,11 @@ section#contact {
     transition: all .3s ease-in-out;
 }
 
+#about .btn-outline {
+    border: solid 2px #{{ site.color.primary }};
+    color: #{{ site.color.primary }};
+}
+
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
@@ -300,6 +306,12 @@ section#contact {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
     background: #fff;
+}
+
+#about .btn-outline:hover,
+#about .btn-outline:focus {
+    border: solid 2px #{{ site.color.secondary }};
+    color: #{{ site.color.secondary }};
 }
 
 .floating-label-form-group {
