@@ -68,6 +68,7 @@ defaults:
 #collections
 collections:
  sections:
+   output: true
 
 prose:
   metadata:
