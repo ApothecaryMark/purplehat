@@ -1,7 +1,7 @@
 ---
 layout: section
 published: true
-title: Coaching
+title: Coachinggg
 permalink: /coaching/
 ---
 
