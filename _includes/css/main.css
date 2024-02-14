@@ -325,6 +325,10 @@ section#contact {
     border-bottom: 1px solid #eee;
 }
 
+input::placeholder {
+  color: #{{ site.color.tertiary }};
+}
+
 .floating-label-form-group input,
 .floating-label-form-group textarea {
     z-index: 1;
