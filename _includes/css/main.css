@@ -294,6 +294,10 @@ section#contact {
     transition: all .3s ease-in-out;
 }
 
+.btn-outline a {
+    text-decoration: none;
+}
+
 #about .btn-outline {
     border: solid 2px #{{ site.color.primary }};
     color: #{{ site.color.primary }};
