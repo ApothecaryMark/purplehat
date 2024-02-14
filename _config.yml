@@ -67,8 +67,8 @@ defaults:
 
 #collections
 collections:
- sections:
-   output: true
+ about:
+   sort_by: order
 
 prose:
   metadata:
