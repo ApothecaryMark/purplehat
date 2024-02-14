@@ -20,7 +20,7 @@
     <div class="row">
 {% for section in site.sections %}
  <h3>{{ section.title }}</h3>
-      {{ section.content }}
+      {{ section.content | markdownify }}
 {% endfor %}
 
       
