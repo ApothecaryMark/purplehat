@@ -1,2 +1,14 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+    color: #{{ site.color.tertiary }};;
+}
+
+section#contact {
+ color: #fff; 
+   background: #{{ site.color.primary }}; 
+}
