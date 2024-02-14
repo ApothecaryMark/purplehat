@@ -8,7 +8,8 @@
       </div>
     </div>
     <div class="row">
-      {% for section in site.about | sort: "order" %}
+      {% assign sections = site.about | sort: "order" %}
+      {% for section in sections %}
               <div class="col-lg-10 col-lg-offset-1">
                  <center><h3>{{ section.title }}</h3></center>
                 <hr class="star-primary">
