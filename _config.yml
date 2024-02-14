@@ -149,8 +149,6 @@ prose:
     - CNAME
     - Rakefile
     - sitemap.xml
-    - coaching.md
-    - test.md
     - feed.xml
     - .travis.yml
     - screenshot.png
