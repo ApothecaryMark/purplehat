@@ -36,7 +36,7 @@ footer:
   copyright: Mark Cutter
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Email Me
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -53,11 +53,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Lancaster, UK
+  - line: London, UK
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: "Email mark@innovationinsociety.com if you'd like to talk more."
 
 # Build settings
 markdown: kramdown
