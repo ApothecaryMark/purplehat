@@ -1,5 +1,5 @@
 ---
-title: Who is the man in the purple?
+title: Who is the man in the purple hat?
 order: 2
 ---
 If Ken's job in the recent [Barbie (2023)](https://youtu.be/4VWftr1TwbQ?si=re8YAcri8yYx7RxV "YouTube of "My Job is beach"") movie was "beach", then my job is "disability". Or at least it feels that way. A firm believer in the social model of disability, I bring lived experience of physical disability, neurodiversity, mental ill-health and financial trauma to all the work that I do. In that regard I wear, and have worn, many figerative and literal hats in my life: many of them purple.
@@ -16,7 +16,11 @@ I have worked for many years to bring a pragmatic and persuasive disability voic
 
 These four elements of my disability profile are each part of me, and have each had an impact on my life in different ways: some good, some bad, all challenging.
 
-In addition, to my lived experience expertise. I am polymath and I like to learn. Among other things I have studied law, politics, social science, philosophy, bioethics, psychoanalysis, psychology and business. I like to write poetry and play board games. I love to read, but for many years a combination of mental ill-health and neurodiversity made this very difficult; if not impossible. I like to write, but for the same reasons at times I have struggled to be productive. 
+In addition, to my lived experience expertise. I am polymath and I like to learn. Among other things I have studied law, politics, social science, philosophy, bioethics, psychoanalysis, psychology and business. 
+
+I like to write poetry, I like to enjoy food with friends and family and I like to play board games. 
+
+I love to read, but for many years a combination of mental ill-health and neurodiversity made this very difficult; if not impossible. I like to write, but for the same reasons at times I have struggled to be productive. 
 
 I like to talk. And I like to listen.
 
@@ -28,4 +32,4 @@ In addition to general executive coaching, my unique approach to Psychology Info
 
 In either case it is my goal to empower individuals and organisations to reach their full potential. I am currently enrolling new clients in both my general executive coaching and neurodiversity, ADHD, and disability coaching practices. Please get in touch if you would like to explore the posibility of working together.
 
-Beyond coaching, I offer **consultancy, training and speaking services** within the disability field. My diverse background and personal story bring depth and authenticity to my presentations and collaborations. If you're looking to engage a passionate and knowledgeable speaker, trainer or consultant, please get in touch.
+Beyond coaching, I offer **consultancy, training, speaking, chairing and facilitation services** within the disability field. My diverse background and personal story bring depth and authenticity to my presentations and collaborations. If you're looking to engage a passionate and knowledgeable speaker, trainer or consultant, please get in touch.
