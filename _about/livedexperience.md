@@ -25,6 +25,6 @@ When I chair meetings, I like to begin with a code of values. I can think of so 
 
 - **Compassion**: Compassion is a hugely important value, and one that we should learn to apply to ourselves and others. Sometimes we might entirely disagree with someone, sometimes there may have a been critical failure in an organisation, and some times people may have experienced challenging situations. In these contexts and many more, being **curious** about the reality of others' lived experience and meeting it with compassion rather than negativity will result in a more productive meeting, and a safer space.
 
-- **Knowledge**: Knowledge is something we all have, we are lived experience experts and we should seek to share our knowkedge and learn from others in room. Acknowledging different perspectives and meeting them with **compassion** rather than conflict strengthens the combined knowledge and learning of the group.
+- **Knowledge**: Knowledge is something we all have. We are lived experience experts and we should seek to share our knowkedge and learn from others in room. Acknowledging different perspectives and meeting them with **compassion** rather than conflict strengthens the combined knowledge and learning of the group.
 
 I find the over arching image and metaphor of a rock is also helpful. For example, in stakeholder meetings the rock represents: a strong base from which to support, challenge and build for the future.
