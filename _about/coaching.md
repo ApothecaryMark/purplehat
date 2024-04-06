@@ -9,7 +9,7 @@ Within the context of **executive coaching and mentoring** I am comfortable work
 
 **Whether you are looking for a coaching psychologist, executive coach or mentor then please get in touch [via email](mailto:mark@innovationinsociety.com) or [the contact form](#contact) to start a conversation.**
 
-I am also comfortable working with neurodiversity, specific learning difficulties, and other constructs of disability within the coaching frame. I woud be comfortable with the title **ADHD coach**, but I find it slightly restrictive. ADHD is not the only form of neurodiversity that can benefit from the co-thinking approaches of psychology informed coaching. 
+In addition, I welcome the opportunity to work with neurodiversity, specific learning difficulties, and other constructs of disability within the coaching frame. I would be comfortable with the additional title of **ADHD coach**, but I find it slightly restrictive. ADHD is not the only form of neurodiversity that can benefit from the co-thinking approaches of psychology informed coaching. 
 
 **Whether you are looking for a coaching psychologist, ADHD coach, neurodiversity coach, disability coach or mentor then please get in touch [via email](mailto:mark@innovationinsociety.com) or [the contact form](#contact) to start a conversation.**
 
