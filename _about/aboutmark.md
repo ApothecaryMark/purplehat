@@ -2,9 +2,9 @@
 title: Who is the man in the purple hat?
 order: 2
 ---
-If Ken's job in the recent [Barbie (2023)](https://youtu.be/4VWftr1TwbQ?si=re8YAcri8yYx7RxV "YouTube of "My Job is beach"") movie was "beach", then my job is "disability". Or at least it feels that way. A firm believer in the social model of disability, I bring lived experience of physical disability, neurodiversity, mental ill-health and financial trauma to all the work that I do. In that regard I wear, and have worn, many figerative and literal hats in my life: many of them purple.
+If Ken's job in the recent [Barbie (2023)](https://youtu.be/4VWftr1TwbQ?si=re8YAcri8yYx7RxV "YouTube of "My Job is beach"") movie was "beach", then my job is "disability". Or at least it feels that way. A firm believer in the [social model of disability](https://www.disabilityrightsuk.org/social-model-disability-language "DRUK discuss the social model of disability"), I bring lived experience of physical disability, neurodiversity, mental ill-health and financial trauma to all the work that I do. In that regard I wear, and have worn, many figerative and literal hats in my life: many of them purple.
 
-I have worked for many years to bring a pragmatic and persuasive disability voice to work in to fields such as hate crime, new technologies, public transport, healthcare systems, social security and the law. These and other projects have always been approached through the lens of my lived experience. Actually, that is not entirely true: 
+As an advocate, activist and critical thinker I have worked for many years to bring a pragmatic and persuasive disability voice to work in to fields such as hate crime, new technologies, public transport, healthcare systems, social security and the law. These and other projects have always been approached through the lens of my lived experience. Actually, that is not entirely true: 
 
 - There was time in my life when, despite having been born with cerebal palsy and other 		physical disabilities. I did not identify as disabled.
 
