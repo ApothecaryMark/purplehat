@@ -1,7 +1,6 @@
 ---
 title: Who is the man in the purple?
 order: 2
-published: false
 ---
 If Ken's job in the recent [Barbie (2023)](https://youtu.be/4VWftr1TwbQ?si=re8YAcri8yYx7RxV "YouTube of "My Job is beach"") movie was "beach", then my job is "disability". Or at least it feels that way. A firm believer in the social model of disability, I bring lived experience of physical disability, neurodiversity, mental ill-health and financial trauma to all the work that I do. In that regard I wear, and have worn, many figerative and literal hats in my life: many of them purple.
 
@@ -30,5 +29,3 @@ In addition to general executive coaching, my unique approach to Psychology Info
 In either case it is my goal to empower individuals and organisations to reach their full potential. I am currently enrolling new clients in both my general executive coaching and neurodiversity, ADHD, and disability coaching practices. Please get in touch if you would like to explore the posibility of working together.
 
 Beyond coaching, I offer **consultancy, training and speaking services** within the disability field. My diverse background and personal story bring depth and authenticity to my presentations and collaborations. If you're looking to engage a passionate and knowledgeable speaker, trainer or consultant, please get in touch.
-
-
