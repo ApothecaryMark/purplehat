@@ -545,5 +545,8 @@ iframe {
 .col-lg-10.col-lg-offset-1 p img {
     width: 50%;
     max-width: 100%; 
+    margin: 0 auto;
+    text-align: center;
+    display: block;
 }
 
