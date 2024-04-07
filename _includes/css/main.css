@@ -537,3 +537,8 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+iframe {
+  aspect-ratio: 16 / 9;
+  width: 100% !important;
+}
