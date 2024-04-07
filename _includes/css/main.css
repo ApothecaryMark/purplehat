@@ -543,6 +543,7 @@ iframe {
 }
 
 .col-lg-10.col-lg-offset-1 p img {
+    width: 50%;
     max-width: 100%; 
 }
 
