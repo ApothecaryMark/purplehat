@@ -1,11 +1,11 @@
 # Site settings
-title: Mark Cutter is insane
+title: Mark Cutter
 email: mark@innovationinsociety.com
 url: "https://apothecarymark.github.io/purplehat"
 baseurl: ""
-description: "Disability advocate, coach, trainee counselling psychologist and psychotherapist, accessible transport specialist and speaker"
-keywords: "counselling psychology, psychotherapy, coaching"
-skills: "Disability Advocate - Coach - Trainee Counselling Psychologist and Psychotherapist - Accessible Transport Specialist - Speaker"
+description: "Mark Cutter AKA the Man in the Purple Hat. He is a disability advocate currently training as a counselling psychologist and psychotherapist. An expert in accessible transport and disability hate crime, providing services as consultant, speaker, executive coach, coaching psychologist and an ADHD coach" # continuous prose description, can be seen by web crawlers but not by humans
+keywords: "counselling psychology, psychotherapy, coaching" # comma-separated keyword list, can be seen by web crawlers but not by humans
+skills: "The Man in the Purple Hat - Executive Coach, ADHD Coach and Disability Specialist" # text shown in subtitle area of top section, human-readable
 meta_author: Cutter Mark
 about_title: "Why are we here?"
 
@@ -45,11 +45,11 @@ social:
   - title: twitter
     url: http://twitter.com/themarkcutter
   - title: linkedin
-    url:
+    url: https://www.linkedin.com/in/markcutter
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: I am a trainee member of both the BPS (registration number 532729) and UKCP (registration number 2011188374).
+  - line: British Psychological Association: GMBPsS (registration number 532729) and UK Council for Psychotherapy (UKCP): Trainee Member (registration number 2011188374).
   
 
 # Credits content
