@@ -1,8 +1,8 @@
 # Site settings
 title: Mark Cutter
 email: mark@innovationinsociety.com
-url: https://apothecarymark.github.io/purplehat
-baseurl: https://apothecarymark.github.io/purplehat
+url: "https://apothecarymark.github.io/purplehat"
+baseurl: ""
 description: "Disability advocate, coach, trainee counselling psychologist and psychotherapist, accessible transport specialist and speaker"
 keywords: "counselling psychology, psychotherapy, coaching"
 skills: "Disability Advocate - Coach - Trainee Counselling Psychologist and Psychotherapist - Accessible Transport Specialist - Speaker"
