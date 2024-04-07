@@ -2,7 +2,7 @@
 title: Who is the man in the purple hat?
 order: 2
 ---
-![A Man in a Purple Hat]({{site.baseurl}}/img/Purple%20Hat.jpg)
+![Purple-Hat.jpg]({{site.baseurl}}/img/Purple-Hat.jpg)
 
 If Ken's job in the recent [Barbie (2023)](https://youtu.be/4VWftr1TwbQ?si=re8YAcri8yYx7RxV "YouTube of "My Job is beach"") movie is "beach", then my job is "disability". Or at least it feels that way. A firm believer in the [social model of disability](https://www.disabilityrightsuk.org/social-model-disability-language "DRUK discuss the social model of disability"), I bring lived experience of physical disability, neurodiversity, mental ill-health and financial trauma to all the work that I do. In that regard I wear, and have worn, many figurative and literal hats in my life: many of them purple.
 
