@@ -49,9 +49,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: "British Psychological Association: GMBPsS (registration number 532729)" 
-  - line: "UK Council for Psychotherapy (UKCP): Trainee Member (registration number 2011188374)"
-  
+  - line: "British Psychological Association:" 
+  - line: "GMBPsS (registration number 532729)" 
+  - line: ""
+  - line: "UK Council for Psychotherapy (UKCP):"
+  - line: "Trainee Member (registration number 2011188374)"
 
 # Credits content
 credits: "mark@innovationinsociety.com"
