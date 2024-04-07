@@ -538,7 +538,11 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
-iframe, img {
+iframe {
   width: 100% !important;
+}
+
+.col-lg-10.col-lg-offset-1 p img {
+    max-width: 100%; 
 }
 
