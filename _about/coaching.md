@@ -21,5 +21,6 @@ I collaborate with a diverse range of practitioners including coaches, psychothe
   </a>
 </center>
 
-
+<center>
 <a href="https://www.buymeacoffee.com/maninthepurplehat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<center>
