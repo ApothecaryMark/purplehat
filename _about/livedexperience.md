@@ -28,3 +28,5 @@ When I chair meetings, I like to begin with a code of values. I can think of so 
 - **Knowledge**: Knowledge is something we all have. We are lived experience experts and we should seek to share our knowkedge and learn from others in room. Acknowledging different perspectives and meeting them with **compassion** rather than conflict strengthens the combined knowledge and learning of the group.
 
 I find the over arching image and metaphor of a rock is also helpful. For example, in stakeholder meetings the rock represents: a strong base from which to support, challenge and build for the future.
+
+<a href="https://www.buymeacoffee.com/maninthepurplehat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
