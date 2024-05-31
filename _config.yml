@@ -150,7 +150,6 @@ prose:
     - /.github
     - /_includes
     - /_layouts
-    - /_posts
     - /css
     - /js
     - /mail
