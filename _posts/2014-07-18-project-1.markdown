@@ -4,9 +4,7 @@ modal-id: 1
 date: 2024-05-31
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+category: Resources
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
 When I chair meetings, I like to begin with a code of values. I can think of so many times in the past where I got these things wrong, and as a result made bad decisions. However, from that learning I have drawn together five principles that underline the way I like to work. They are captured by the acronym ROCCK, pronounced “rock”. N.B. I am planning to write this up in a formal way, but here is a breif summary of my ROCCK approach to meetings.
