@@ -8,8 +8,8 @@
       </div>
     </div>
     <div class="row">
-      {% assign sections = site.about | sort: "order" %}
-      {% if section.name == aboutmark.md %}
+      
+      {% assign section = site.about | where: 'path', "aboutmark.md %}
         <div class="col-lg-10 col-lg-offset-1">
                  <center><h3>{{ section.title }}</h3></center>
                 <hr class="star-primary">
@@ -17,7 +17,6 @@
                 <br/>
                 <br/>
               </div>
-      {% endif %}
       
     </div>
   </div>
