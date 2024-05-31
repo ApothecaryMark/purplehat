@@ -18,10 +18,12 @@
           </div>
           <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
       </a-->
+      <a href="#portfolioModal-{{ post.slug }}" class="portfolio-link" data-toggle="modal">
           {% if post.img %}
             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
           {% endif %}
           <h3>{{post.title}}</h3>
+      </a>
       </div>
       {% endfor %}
     </div>
