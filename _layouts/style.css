@@ -12,3 +12,10 @@ section#contact, section#portfolio {
  color: #fff; 
    background: #{{ site.color.primary }}; 
 }
+
+section#portfolio h2, 
+section#portfolio hr, 
+section#portfolio h3, 
+section#portfolio a {
+    color: #fff; 
+}
