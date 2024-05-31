@@ -2,6 +2,7 @@
 layout: default
 modal-id: 1
 date: 2024-05-31
+title: The ROCCK Meeting Approach
 img: cabin.png
 alt: image-alt
 category: Resources
