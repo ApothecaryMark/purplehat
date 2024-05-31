@@ -9,7 +9,7 @@
     </div>
     <div class="row">
       
-      {% assign section = site.about | where: 'path', "_about/aboutmark.md" %}
+      {% assign section = site.about | where: "name", "aboutmark.md" | first %}
         <div class="col-lg-10 col-lg-offset-1">
                  <center><h3>{{ section.title }}</h3></center>
                 <hr class="star-primary">
