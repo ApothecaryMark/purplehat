@@ -8,7 +8,7 @@
     color: #{{ site.color.tertiary }};
 }
 
-section#contact {
+section#contact, section#blog {
  color: #fff; 
    background: #{{ site.color.primary }}; 
 }
