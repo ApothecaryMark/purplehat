@@ -14,7 +14,7 @@ section#contact, section#portfolio {
 }
 
 section#portfolio h2, 
-section#portfolio hr, 
+section#portfolio hr.star-primary, 
 section#portfolio h3, 
 section#portfolio a {
     color: #fff; 
