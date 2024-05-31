@@ -1,11 +1,26 @@
 ---
 layout: default
+date: 2014-07-17T00:00:00.000Z
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
+img: diversityintransport.jpeg
+alt: Diversity in Transport Panel
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Lived Experience
+description: >-
+  Use this area of the page to describe your project. Lorem ipsum dolor sit
+  amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil,
+  molestias magnam, recusandae quos quis inventore quisquam velit asperiores,
+  vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+published: true
+title: 'Disability and Accessible Travel: A Lived Experience Case Study'
 ---
+I have worked as an activist in the field of disability travel / accessible travel for many years, and recently I have been grateful for the opportunity to take more of a leadership role in the field, having been appointed by Northern Rail to the role of [Chair of Northern’s Accessibility User Group (NAUG)](https://www.northernrailway.co.uk/news/northern-appoints-new-chair-train-operators-independent-accessibility-user-group "Press release: Northern Rail"). In addition to working with Northern in this role; I also chair the Rail Accessibility and Inclusion Forum for the North (RAIFN). RAIFN brings together all of the train operating companies (ToCs) that connect people and places to, from and within the north. In both roles, I am able to bring my wholeself to the table: holding space for difficult conversations and facilitating dialogue between the rail industry and a diverse range of stakeholders. 
+
+My own relationship with travel is complicated. When I was younger I was more independent, but in recent years I have become increasing reliant on other people. I no longer travel independently, and always travel with a <strike> carer </strike>  companion (I prefer "companion" to the word "carer", partly because it gives me mysterious Doctor Who vibes, and partly because I not always as comfortable sitting with my vulnerability and dependence on others as I make out.)
+
+All aspects of my disability profile are relevant to the conversation– physical disability, neurodiversity, mental illness/mental ill-health and financial trauma - as are all aspects of my wider training and lived experience. Sometimes I am lawyer at the table, sometimes I am a psychologist, some times I am a coach, and some times I am a poet. At all times, I am bringing my entire lens of lived experience in to the room. 
+
+I was fortunate to have the opportunity to speak at Transport for the North's annual conference in 2024 (on a lunch time panel). You might find it interesting to watch / listen to the panel, to get an understanding of my broad approach to inclusion.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XnFVj-LkrKo?si=aNIwWICL3-kz9JCl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
