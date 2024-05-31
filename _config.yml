@@ -128,22 +128,22 @@ prose:
         field:
           element: "text"
           label: "title"
-      - name: "subtitle"
-        field:
-          element: "text"
-          label: "subtitle"
       - name: "img"
         field:
           element: "image"
           label: "featured image"
+      - name: "alt"
+        field:
+          element: "text"
+          label: "image alt text"
       - name: "layout"
         field:
           element: "hidden"
           label: "layout"
-      - name: "categories"
+      - name: "category"
         field:
-          element: "hidden"
-          label: "categories"
+          element: "text"
+          label: "category"
       - name: "published"
         field:
           element: "checkbox"
