@@ -132,6 +132,10 @@ prose:
         field:
           element: "text"
           label: "subtitle"
+      - name: "img"
+        field:
+          element: "image"
+          label: "featured image"
       - name: "layout"
         field:
           element: "hidden"
