@@ -8,6 +8,10 @@
       </div>
     </div>
     <div class="row">
+    {% if page.mark %}
+      {% include {{ page.mark }} %}
+    {% endif %}
+      
       {% assign sections = site.about | sort: "order" %}
       {% for section in sections %}
               <div class="col-lg-10 col-lg-offset-1">
