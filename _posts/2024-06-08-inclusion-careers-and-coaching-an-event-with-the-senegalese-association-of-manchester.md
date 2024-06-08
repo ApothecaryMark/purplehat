@@ -10,7 +10,7 @@ category: Lived Experience
 modal-id: 3
 description: ''
 ---
-Today, I travelled with my companion to Manchester to speak to the [Senegalese Association of Lancaster](https://manchestercommunitycentral.org/contacts/view/269614 "Contact Information") at an event about education and careers. 
+Today, I travelled with my companion to Manchester to speak to the [Senegalese Association of Manchester](https://manchestercommunitycentral.org/contacts/view/269614 "Contact Information") at an event about education and careers. 
  
 First on the agenda was a talk from colleagues at the [Gift Project](https://www.facebook.com/groups/giftproject/ "Gift Project on Facebook"), an outreach project launched by the Islamic Societies of The University of Manchester and Manchester Metropolitan University. They spoke about the UK education system. 
  
