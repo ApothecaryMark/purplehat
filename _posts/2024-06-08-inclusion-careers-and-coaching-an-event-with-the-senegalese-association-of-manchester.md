@@ -4,8 +4,8 @@ published: true
 title: >-
   Inclusion, Careers and Coaching: An Event with the Senegalese Association of
   Manchester
-img: /img/senegalesesociety.jpg
-alt: Logo of the Senegalese Association of Manchester
+img: '{{site.baseurl}}/img/Flag_of_Senegal.png'
+alt: Flag of Senegal
 category: Lived Experience
 modal-id: 3
 ---
@@ -44,4 +44,3 @@ We set a goal of identifying some trusted people he could share his ideas with, 
 
 As the event concluded, I reminded everyone that they are part of the community and that is a powerful asset. They shared with me their pan-African approach. I hope to do more coaching work with clients from Senegal and the Senegalese community as a whole.
 ##
-
