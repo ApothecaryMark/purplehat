@@ -9,6 +9,8 @@ alt: Logo of the Senegalese Association of Manchester
 category: Lived Experience
 modal-id: 3
 ---
+h2 {text-align: right; }
+
 Today, I travelled with my companion to Manchester to speak to the [Senegalese Association of Manchester](https://manchestercommunitycentral.org/contacts/view/269614 "Contact Information") at an event about education and careers. 
 
 First on the agenda was a talk from colleagues at the [Gift Project](https://www.facebook.com/groups/giftproject/ "Gift Project on Facebook"), an outreach project launched by the Islamic Societies of The University of Manchester and Manchester Metropolitan University. They spoke about the UK education system.  
@@ -43,3 +45,5 @@ He explained that he had a couple of business ideas written out and planned but 
 We set a goal of identifying some trusted people he could share his ideas with, and encouraged him to listen to his body to understand how he might feel about the advice he received.
 
 As the event concluded, I reminded everyone that they are part of the community and that is a powerful asset. They shared with me their pan-African approach. I hope to do more coaching work with clients from Senegal and the Senegalese community as a whole.
+##
+
