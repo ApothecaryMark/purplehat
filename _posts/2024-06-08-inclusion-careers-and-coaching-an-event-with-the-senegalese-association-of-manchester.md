@@ -4,8 +4,9 @@ published: true
 title: >-
   Inclusion, Careers and Coaching: An Event with the Senegalese Association of
   Manchester
-img: '{{site.baseurl}}/img/senegalesesociety.jpg'
+img: /img/senegalesesociety.jpg
 alt: Logo of the Senegalese Association of Manchester
+category: Lived Experience
 ---
 Today, I travelled with my companion to Manchester to speak to the [Senegalese Association of Lancaster](https://manchestercommunitycentral.org/contacts/view/269614 "Contact Information") at an event about education and careers. 
  
