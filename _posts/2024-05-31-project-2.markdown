@@ -4,14 +4,13 @@ date: 2014-07-17T00:00:00.000Z
 modal-id: 2
 img: diversityintransport.jpeg
 alt: Diversity in Transport Panel
-project-date: April 2014
+project-date: April 2024
 client: Start Bootstrap
 category: Lived Experience
 description: >-
-  Use this area of the page to describe your project. Lorem ipsum dolor sit
-  amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil,
-  molestias magnam, recusandae quos quis inventore quisquam velit asperiores,
-  vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+  I am happy to be the chair of Northern Rail Accessibility User Group (NAUG)
+  and the Rail Accessibility and Inclusion Forum for the North. I spoke at
+  Transport for the North in January 2024
 published: true
 title: 'Disability and Accessible Travel: A Lived Experience Expertise Case Study'
 ---
