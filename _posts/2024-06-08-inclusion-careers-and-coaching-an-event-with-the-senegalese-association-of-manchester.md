@@ -6,6 +6,7 @@ title: >-
   Manchester
 img: '/img/Flag_of_Senegal.png'
 alt: Flag of Senegal
+layout: post
 category: Lived Experience
 modal-id: 3
 ---
