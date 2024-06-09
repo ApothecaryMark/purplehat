@@ -17,7 +17,7 @@ section.page h2, section.page h3  {
     text-align: center;
 }
 
-.featured-image img {
+.featured-image img, #mark img {
     border: 20px solid #{{ site.color.primary }};
     display: block;
     margin: 0 auto;
