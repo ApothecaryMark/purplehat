@@ -17,6 +17,11 @@ section.page h2, section.page h3  {
     text-align: center;
 }
 
+section.page a {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 .featured-image img, section#mark img {
     border: 20px solid #{{ site.color.primary }};
     display: block;
