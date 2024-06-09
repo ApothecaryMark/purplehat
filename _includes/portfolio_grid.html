@@ -18,7 +18,7 @@
           </div>
           <img src="/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
       </a-->
-      <a href="#portfolioModal-{{ post.slug }}" class="portfolio-link" data-toggle="modal">
+      <a href="{{ post.url }}" class="portfolio-link">
           {% if post.img %}
             <img src="{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
           {% endif %}
