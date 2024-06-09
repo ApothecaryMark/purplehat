@@ -41,6 +41,10 @@ section.page a {
     color: #fff;
 }
 
+.PageNavigation.bottom-nav a {
+    color: #{{ site.color.primary }};
+}
+
 p {
     font-size: 20px;
 }
