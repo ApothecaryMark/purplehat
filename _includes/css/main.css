@@ -27,6 +27,10 @@ section.page a {
     text-decoration: underline;
 }
 
+section#blog-page a {
+    text-decoration: none;
+}
+
 .featured-image img, section#mark img {
     border: 20px solid #{{ site.color.primary }};
     display: block;
