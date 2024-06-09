@@ -140,6 +140,7 @@ prose:
         field:
           element: "hidden"
           label: "layout"
+          value: "post"
       - name: "category"
         field:
           element: "text"
