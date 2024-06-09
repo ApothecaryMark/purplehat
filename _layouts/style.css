@@ -13,9 +13,9 @@ section#contact, section#portfolio {
    background: #{{ site.color.primary }}; 
 }
 
-section#portfolio h2, 
-section#portfolio hr.star-primary, 
-section#portfolio h3, 
-section#portfolio a {
+section#blog h2, 
+section#blog hr.star-primary, 
+section#blog h3, 
+section#blog a {
     color: #fff; 
 }
