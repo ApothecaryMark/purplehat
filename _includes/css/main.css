@@ -13,6 +13,13 @@ section.page {
     overflow: hidden;
 }
 
+.featured-image img {
+    border: 20px solid #{{ site.color.primary }};
+                 display: block;
+margin: 0 auto;
+text-align: center;
+}
+
 .PageNavigation {
     display: flex;
     justify-content: space-evenly;
