@@ -9,9 +9,14 @@ body {
     font-family: "Quattrocento", serif;
 }
 
+.PageNavigation {
+    display: flex;
+}
+
 .PageNavigation a {
     font-weight: bold;
-    font-size: 32px;
+    font-size: 26px;
+    color: #fff;
 }
 
 p {
