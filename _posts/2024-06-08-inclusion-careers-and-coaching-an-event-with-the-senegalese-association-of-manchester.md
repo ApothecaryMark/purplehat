@@ -1,11 +1,11 @@
 ---
-date: '2024-06-08 21:19 +0100'
 layout: post
+date: '2024-06-08 21:19 +0100'
 published: true
 title: >-
   Inclusion, Careers and Coaching: An Event with the Senegalese Association of
   Manchester
-img: '/img/Flag_of_Senegal.png'
+img: /img/Flag_of_Senegal.png
 alt: Flag of Senegal
 category: blog
 modal-id: 3
@@ -19,11 +19,13 @@ Next up, I shared some of my lived experience with the community, reflecting on 
 I also shared some of my life's journey from an aspiration of career in law to entrepreneurship to success and failure. The importance of 'trying new things' and 'asking for help' were a big part of my story as I added counselling psychology, psychotherapy and coaching to my portfolio career.  
 A lot of people were there because their parents told them to come, and I applaud that honesty! But I enjoyed doing three mini co-thinking (coaching) sessions on stage with members of the community.
 
-**The Community Leader:** Their goal was to engage the community. Using the GROW model and a SWOT analysis, we explored the ways he could do that. What came across to me was a strong desire to find ways to engage the community, and an urge to make sure the next generation feels part of that community. We brainstormed some ways to make that happen.
+### The Community Leader
+Their goal was to engage the community. Using the GROW model and a SWOT analysis, we explored the ways he could do that. What came across to me was a strong desire to find ways to engage the community, and an urge to make sure the next generation feels part of that community. We brainstormed some ways to make that happen.
 
 At the end of the session, I was really pleased to hear another community member asking the audience what kind of events they would like to see. Hopefully the next event will be imbued with the same energy he shared with me as he told me ‘all Senegalese like a party’.
 
-**The Teenage Sportswoman:** She came to the stage to ask the question: 'when will good things happen?'. We used socratic questioning and a person-centred coaching approach to understand: what did that mean to her?
+### The Teenage Sportswoman
+She came to the stage to ask the question: 'when will good things happen?'. We used socratic questioning and a person-centred coaching approach to understand: what did that mean to her?
 
 She shared that she aspires to do community work and wants to travel, but feels held back by her age. Ok, what her goals right now, how can we make that happen?
 
@@ -35,7 +37,8 @@ We did some breathing exercises, stress management activities and coping strateg
 
 Our session ended with a round of applause as she stated her confidence and commitment to her goal to do well at both.
 
-**The Young Entrepreneur:** He came to the stage and shared his wish to launch a new business. Like many of us, he shared he had tried crypto and it hadn't worked out, but no problem he's trying again.
+### The Young Entrepreneur
+He came to the stage and shared his wish to launch a new business. Like many of us, he shared he had tried crypto and it hadn't worked out, but no problem he's trying again.
 
 Through coaching questions we found a 'core value' of his was to be able to help his family and community, support them financially, and be respected for it.  
 
@@ -44,4 +47,3 @@ He explained that he had a couple of business ideas written out and planned but 
 We set a goal of identifying some trusted people he could share his ideas with, and encouraged him to listen to his body to understand how he might feel about the advice he received.
 
 As the event concluded, I reminded everyone that they are part of the community and that is a powerful asset. They shared with me their pan-African approach. I hope to do more coaching work with clients from Senegal and the Senegalese community as a whole.
-##
