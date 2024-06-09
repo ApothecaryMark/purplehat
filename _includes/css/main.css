@@ -17,6 +17,10 @@ section.page h2, section.page h3  {
     text-align: center;
 }
 
+section.page .blog-post h2, section.page .blog-post h3 {
+    text-align: left;
+}
+
 section#blog-page {
     padding-top: 0;
 }
