@@ -4,7 +4,7 @@ published: true
 title: >-
   Inclusion, Careers and Coaching: An Event with the Senegalese Association of
   Manchester
-img: '{{site.baseurl}}/img/Flag_of_Senegal.png'
+img: '/img/Flag_of_Senegal.png'
 alt: Flag of Senegal
 category: Lived Experience
 modal-id: 3
