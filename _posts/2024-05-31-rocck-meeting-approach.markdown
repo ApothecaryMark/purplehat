@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 date: 2024-05-31T00:00:00.000Z
 modal-id: 1
 title: The ROCCK Meeting Approach
