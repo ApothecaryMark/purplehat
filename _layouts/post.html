@@ -3,14 +3,15 @@ layout: page
 ---
 <div class="container">
       <div class="row">
-        <div class="col-lg-12">
-            <h2>{{ post.title }}</h2>
             <div class="col-lg-10">
-                <img src="{{site.url}}{{ post.img }}"/>
+            <h3>{{ post.title }}</h3>
             </div>
-            
+            <div class="col-lg-10">
+                <img src="{{site.url}}/{{ post.img }}"/>
+            </div>
+            <div class="col-lg-10">
             {{ content }}
-            
+            </div>
         </div>
       </div>
 </div>
