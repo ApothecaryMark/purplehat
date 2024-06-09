@@ -2,7 +2,7 @@
 layout: default
 date: 2014-07-17T00:00:00.000Z
 modal-id: 2
-img: diversityintransport.jpeg
+img: /img/diversityintransport.jpeg
 alt: Diversity in Transport Panel
 project-date: April 2024
 client: Start Bootstrap
