@@ -3,7 +3,7 @@ layout: default
 date: 2024-05-31T00:00:00.000Z
 modal-id: 1
 title: The ROCCK Meeting Approach
-img: rock.jpg
+img: /img/rock.jpg
 alt: A large rock shown against the sky
 category: Resources
 description: >-
