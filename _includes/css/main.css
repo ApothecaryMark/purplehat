@@ -17,11 +17,12 @@ section.page h2, section.page h3  {
     text-align: center;
 }
 
-.featured-image img, #mark img {
+.featured-image img, section#mark img {
     border: 20px solid #{{ site.color.primary }};
     display: block;
     margin: 0 auto;
     text-align: center;
+    max-width: 100%;
 }
 
 .PageNavigation {
