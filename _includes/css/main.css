@@ -11,6 +11,7 @@ body {
 
 .PageNavigation {
     display: flex;
+    justify-content: space-evenly;
 }
 
 .PageNavigation a {
