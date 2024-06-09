@@ -19,16 +19,32 @@
           <a href="{{ site.url }}"></a>
         </li>
         <li class="page-scroll">
-          <a href="/#about">{{site.about_title}}</a>
+          {% if page.layout == "default" %}
+            <a href="#about">{{site.about_title}}</a>
+          {% else %}
+            <a href="/#about">{{site.about_title}}</a>
+          {% endif %}
         </li>
         <li class="page-scroll">
-          <a href="/#blog">Blog</a>
+          {% if page.layout == "default" %}
+            <a href="#blog">Blog</a>
+          {% else %}
+            <a href="/blog">Blog</a>
+          {% endif %}
         </li>
         <li class="page-scroll">
-          <a href="/#mark">Who is the man in the purple hat?</a>
+          {% if page.layout == "default" %}
+            <a href="#mark">Who is the man in the purple hat?</a>
+          {% else %}
+            <a href="/#mark">Who is the man in the purple hat?</a>
+          {% endif %}
         </li>
         <li class="page-scroll">
-          <a href="/#contact">Contact</a>
+          {% if page.layout == "default" %}
+            <a href="#contact">Contact</a>
+          {% else %}
+            <a href="/#contact">Contact</a>
+          {% endif %}
         </li>
       </ul>
     </div>
