@@ -23,6 +23,11 @@
             <img src="{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
           {% endif %}
           <h3>{{post.title}}</h3>
+          <div class="caption">
+              <div class="caption-content">
+                {{ post.date }}
+              </div>
+            </div>
       </a>
       </div>
       {% endfor %}
