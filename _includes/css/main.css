@@ -13,6 +13,11 @@ section.page {
     overflow: hidden;
 }
 
+section.blog-page h3 {
+    text-align: left;
+    text-decoration: none;
+}
+
 section.page h2, section.page h3  {
     text-align: center;
 }
