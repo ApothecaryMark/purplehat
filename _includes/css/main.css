@@ -9,6 +9,11 @@ body {
     font-family: "Quattrocento", serif;
 }
 
+.PageNavigation a {
+    font-weight: bold;
+    font-size: 32px;
+}
+
 p {
     font-size: 20px;
 }
