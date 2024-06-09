@@ -6,7 +6,7 @@ img: /img/diversityintransport.jpeg
 alt: Diversity in Transport Panel
 project-date: April 2024
 client: Start Bootstrap
-category: Lived Experience
+category: blog
 description: >-
   I am happy to be the chair of Northern Rail Accessibility User Group (NAUG)
   and the Rail Accessibility and Inclusion Forum for the North. I spoke at
