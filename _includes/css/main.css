@@ -9,6 +9,10 @@ body {
     font-family: "Quattrocento", serif;
 }
 
+section.page {
+    overflow: hidden;
+}
+
 .PageNavigation {
     display: flex;
     justify-content: space-evenly;
