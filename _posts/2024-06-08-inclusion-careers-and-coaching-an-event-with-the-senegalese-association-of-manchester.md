@@ -7,7 +7,7 @@ title: >-
   Manchester
 img: '/img/Flag_of_Senegal.png'
 alt: Flag of Senegal
-category: Lived Experience
+category: blog
 modal-id: 3
 ---
 Today, I travelled with my companion to Manchester to speak to the [Senegalese Association of Manchester](https://manchestercommunitycentral.org/contacts/view/269614 "Contact Information") at an event about education and careers. 
