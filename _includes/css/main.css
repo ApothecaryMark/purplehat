@@ -13,11 +13,15 @@ section.page {
     overflow: hidden;
 }
 
+section.page h2, section.page h3  {
+    text-align: center;
+}
+
 .featured-image img {
     border: 20px solid #{{ site.color.primary }};
-                 display: block;
-margin: 0 auto;
-text-align: center;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .PageNavigation {
