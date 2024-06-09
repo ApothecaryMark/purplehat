@@ -5,7 +5,7 @@ modal-id: 1
 title: The ROCCK Meeting Approach
 img: /img/rock.jpg
 alt: A large rock shown against the sky
-category: Resources
+category: blog
 description: >-
   Use this area of the page to describe your project. Lorem ipsum dolor sit
   amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil,
