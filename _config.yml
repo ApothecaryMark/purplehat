@@ -74,7 +74,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: ""
+      permalink: pretty
 
 #collections
 collections:
