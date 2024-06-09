@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 date: 2014-07-17T00:00:00.000Z
 modal-id: 2
 img: /img/diversityintransport.jpeg
