@@ -1,5 +1,6 @@
 ---
 date: '2024-06-08 21:19 +0100'
+layout: post
 published: true
 title: >-
   Inclusion, Careers and Coaching: An Event with the Senegalese Association of
