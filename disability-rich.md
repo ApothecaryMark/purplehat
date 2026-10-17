@@ -30,7 +30,7 @@ og_image: /img/disability-rich.png
 
 <article class="disability-rich">
   <img class="artwork" src="/img/disability-rich.png" alt="A solitary seated figure, carrying a backpack, contained within a luminous oval structure of purple, green and gold." />
-  <p class="art-credit"><em>Disability Rich</em>, adapted from <em>1924 Pieces of Me</em><br />by The Man in the Purple Hat</p>
+  <p class="art-credit"><em>Disability Rich</em>, adapted from <a href="https://1924piecesofme.com/"><em>1924 Pieces of Me</em></a><br />by <a href="https://maninthepurplehat.com/">The Man in the Purple Hat</a></p>
 
   <p class="lede">One billion units of the wealth disabled people are so often imagined to receive.</p>
 
@@ -44,11 +44,13 @@ og_image: /img/disability-rich.png
 
   <h2>The metaphor</h2>
 
-  <p><em>Disability Rich</em> is a satirical conceptual artwork. Its apparent abundance is the point: being “rich” in tokens is not the same as having money, security or power.</p>
+  <p><em>Disability Rich</em> is a satirical conceptual artwork. Money is not a natural fact. Its value exists because institutions, markets and communities collectively agree that it does. Disability, understood through the social model, is also socially produced. I am not disabled because of the points of difference in my body, brain or mind. Rather I am disabled by the built environment and social systems that create disabling barriers.</p>
 
-  <p>A billion units can be created, displayed and counted while saying almost nothing about whether the person holding them can pay the rent, build savings, obtain support or live independently. In that sense, the coin reflects a wider sleight of hand in public discussion: nominal entitlement is confused with material security, while the disabling structures that produce financial insecurity disappear from view.</p>
+  <p><em>Disability Rich</em> places these two constructs beside one another. A billion tokens can be made real through collective agreement, yet remain materially worthless. At the same time, a disabled person’s very real need for security can be translated by political and administrative systems into figures, thresholds, assessments and suspicions.</p>
 
-  <p>The work is grounded in the social model of disability. Disabled people are not made financially insecure by individual defect. Poverty and financial trauma are produced and intensified by disabling barriers, exclusion from work and public life, inadequate support, additional living costs, charging systems and rules that can punish saving.</p>
+  <p>This matters at a moment when disabled people are again being discussed principally in terms of cost, dependency and entitlement. Benefits rules, social-care charges, savings limits and conditional support do more than distribute money: they shape who may accumulate resources, exercise autonomy and plan a future. Disabled people can therefore be described as receiving too much while being prevented from acquiring the wealth that might make genuine independence possible.</p>
+
+  <p>The abundance of DISRICH is deliberately hollow. It asks who is permitted to define wealth, who is allowed to possess it, and why the financial security of disabled people is so often treated as something requiring surveillance and control.</p>
 
   <h2>One billion</h2>
 
@@ -65,7 +67,7 @@ og_image: /img/disability-rich.png
 
   <h2>Authorship</h2>
 
-  <p><em>Disability Rich</em> is a work by <strong>The Man in the Purple Hat</strong>, adapted from <em>1924 Pieces of Me</em>.</p>
+  <p><em>Disability Rich</em> is a work by <strong><a href="https://maninthepurplehat.com/">The Man in the Purple Hat</a></strong>, adapted from <a href="https://1924piecesofme.com/"><em>1924 Pieces of Me</em></a>.</p>
 
   <div class="notice" role="note">
     <p><strong>Important:</strong> DISRICH is an experimental artwork and highly speculative cryptoasset. It has no guaranteed value, may be illiquid and could fall to zero. Nothing on this page is investment advice or an invitation to buy.</p>
