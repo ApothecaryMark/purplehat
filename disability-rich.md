@@ -44,13 +44,19 @@ og_image: /img/disability-rich.png
 
   <h2>The metaphor</h2>
 
-  <p><em>Disability Rich</em> is a satirical conceptual artwork. Money is not a natural fact. Its value exists because institutions, markets and communities collectively agree that it does. Disability, understood through the social model, is also socially produced. I am not disabled because of the points of difference in my body, brain or mind. Rather I am disabled by the built environment and social systems that create disabling barriers.</p>
+  <p><em>Disability Rich</em> is a satirical conceptual artwork about two systems of belief: what makes money valuable, and what makes a person disabled.</p>
 
-  <p><em>Disability Rich</em> places these two constructs beside one another. A billion tokens can be made real through collective agreement, yet remain materially worthless. At the same time, a disabled person’s very real need for security can be translated by political and administrative systems into figures, thresholds, assessments and suspicions.</p>
+  <p>Money is made up. That does not make it imaginary. It works because enough of us—and the institutions around us—agree that it does.</p>
 
-  <p>This matters at a moment when disabled people are again being discussed principally in terms of cost, dependency and entitlement. Benefits rules, social-care charges, savings limits and conditional support do more than distribute money: they shape who may accumulate resources, exercise autonomy and plan a future. Disabled people can therefore be described as receiving too much while being prevented from acquiring the wealth that might make genuine independence possible.</p>
+  <p>My body, brain and mind are real. So are pain, impairment and difference. But, understood through the social model, disability is produced by the world built around them: inaccessible environments, hostile attitudes, and political and administrative systems that decide what support is available and what kind of life a disabled person is allowed to afford.</p>
 
-  <p>The abundance of DISRICH is deliberately hollow. It asks who is permitted to define wealth, who is allowed to possess it, and why the financial security of disabled people is so often treated as something requiring surveillance and control.</p>
+  <p>That is where the joke sits. A billion DISRICH can appear beside my name and make me look spectacularly wealthy. But a number on a screen is not rent, food, care, transport, savings or power.</p>
+
+  <p>At a moment when disabled people are again being discussed as costs to be controlled, that distinction matters. We can be accused of receiving too much while benefits rules, social-care charges and capital limits restrict what some disabled people may keep, save or control. Our needs become figures, thresholds, assessments and suspicions.</p>
+
+  <p>So perhaps I have finally found all the money I am supposed to have. It exists as DISRICH: abundant, countable, potentially tradeable and possibly useless. The market can decide what it thinks the tokens are worth. The artwork asks a different question:</p>
+
+  <p><strong>What does money mean if it cannot be turned into security?</strong></p>
 
   <h2>One billion</h2>
 
