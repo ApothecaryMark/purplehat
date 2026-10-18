@@ -8,6 +8,7 @@ og_image: /img/disability-rich.png
 
 <style>
   .disability-rich { max-width: 920px; margin: 0 auto; }
+  .disability-rich .subtitle { margin: 0 auto 2.5rem; color: #5C366F; font-family: "Playfair Display", serif; font-size: 25px; line-height: 1.4; text-align: center; }
   .disability-rich .artwork { display: block; width: min(100%, 700px); height: auto; margin: 0 auto 1.25rem; border: 18px solid #80439f; }
   .disability-rich .art-credit { text-align: center; font-size: 16px; margin-bottom: 3rem; }
   .disability-rich .lede { font-family: "Playfair Display", serif; font-size: 30px; line-height: 1.35; color: #301934; }
@@ -29,6 +30,8 @@ og_image: /img/disability-rich.png
 </style>
 
 <article class="disability-rich">
+  <p class="subtitle">A satirical artwork about disability, money and the price of independence.</p>
+
   <img class="artwork" src="/img/disability-rich.png" alt="A solitary seated figure, carrying a backpack, contained within a luminous oval structure of purple, green and gold." />
   <p class="art-credit"><em>Disability Rich</em>, adapted from <a href="https://1924piecesofme.com/"><em>1924 Pieces of Me</em></a><br />by <a href="https://maninthepurplehat.com/">The Man in the Purple Hat</a></p>
 
@@ -41,6 +44,18 @@ og_image: /img/disability-rich.png
   <div class="reveal" aria-label="The central idea of Disability Rich">
     <p>It is there. That is where all the millions are.</p>
   </div>
+
+  <h2>The image</h2>
+
+  <p>To create the coin, I returned to the 1,924 brain scans that formed <a href="https://1924piecesofme.com/"><em>1924 Pieces of Me</em></a>. I searched each one for some visible trace of my financial distress; for the neurodivergence that can make financial decision-making challenging; and for the brain damage that produces the physical differences I experience in my body.</p>
+
+  <p>I could not find any of it (at least, not in any form I could name).</p>
+
+  <p>But one image held me. Perhaps it was the colours. Perhaps it was the shapes. Perhaps it was something I could not see but could nevertheless feel.</p>
+
+  <p>I used that image as the seed for an AI-generated artwork while contemplating what it means to live with financial trauma. The resulting artwork became the image for DISRICH: my reflections on money, disability and financial trauma given form.</p>
+
+  <p>The scan did not reveal my financial trauma. The artwork gave it somewhere to exist.</p>
 
   <h2>The metaphor</h2>
 
