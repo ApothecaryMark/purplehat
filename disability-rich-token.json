@@ -1,0 +1,30 @@
+{
+  "name": "Disability Rich",
+  "symbol": "DISRICH",
+  "description": "A satirical conceptual artwork about disability, money, financial trauma and the price of independence. A project by The Man in the Purple Hat, adapted from 1924 Pieces of Me.",
+  "image": "https://maninthepurplehat.com/img/disability-rich.png",
+  "external_url": "https://maninthepurplehat.com/disability-rich/",
+  "attributes": [
+    {
+      "trait_type": "Artwork type",
+      "value": "Satirical conceptual artwork"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "The Man in the Purple Hat"
+    },
+    {
+      "trait_type": "Source project",
+      "value": "1924 Pieces of Me"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://maninthepurplehat.com/img/disability-rich.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
