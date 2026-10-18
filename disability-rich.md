@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Disability Rich
+subtitle: "A satirical artwork about disability, money and the price of independence."
 permalink: /disability-rich/
 description: "One billion units of the wealth disabled people are so often imagined to receive: a satirical conceptual artwork by The Man in the Purple Hat."
 og_image: /img/disability-rich.png
@@ -8,7 +9,7 @@ og_image: /img/disability-rich.png
 
 <style>
   .disability-rich { max-width: 920px; margin: 0 auto; }
-  .disability-rich .subtitle { box-sizing: border-box; margin: 0 auto 2.5rem; padding: 1.1rem 1.5rem; color: #fff; background: #5C366F; border-left: 10px solid #BE81DC; font-family: "Playfair Display", serif; font-size: 25px; line-height: 1.4; text-align: center; }
+  .intro-text .page-subtitle { margin: 0.6rem auto 1.25rem; color: #fff; font-family: "Playfair Display", serif; font-size: 25px; line-height: 1.4; text-align: center; }
   .disability-rich .artwork { display: block; width: min(100%, 700px); height: auto; margin: 0 auto 1.25rem; border: 18px solid #80439f; }
   .disability-rich .art-credit { text-align: center; font-size: 16px; margin-bottom: 3rem; }
   .disability-rich .lede { font-family: "Playfair Display", serif; font-size: 30px; line-height: 1.35; color: #301934; }
@@ -30,8 +31,6 @@ og_image: /img/disability-rich.png
 </style>
 
 <article class="disability-rich">
-  <p class="subtitle">A satirical artwork about disability, money and the price of independence.</p>
-
   <img class="artwork" src="/img/disability-rich.png" alt="A solitary seated figure, carrying a backpack, contained within a luminous oval structure of purple, green and gold." />
   <p class="art-credit"><em>Disability Rich</em>, adapted from <a href="https://1924piecesofme.com/"><em>1924 Pieces of Me</em></a><br />by <a href="https://maninthepurplehat.com/">The Man in the Purple Hat</a></p>
 
