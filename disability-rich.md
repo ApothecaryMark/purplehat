@@ -8,7 +8,7 @@ og_image: /img/disability-rich.png
 
 <style>
   .disability-rich { max-width: 920px; margin: 0 auto; }
-  .disability-rich .subtitle { margin: 0 auto 2.5rem; color: #5C366F; font-family: "Playfair Display", serif; font-size: 25px; line-height: 1.4; text-align: center; }
+  .disability-rich .subtitle { box-sizing: border-box; margin: 0 auto 2.5rem; padding: 1.1rem 1.5rem; color: #fff; background: #5C366F; border-left: 10px solid #BE81DC; font-family: "Playfair Display", serif; font-size: 25px; line-height: 1.4; text-align: center; }
   .disability-rich .artwork { display: block; width: min(100%, 700px); height: auto; margin: 0 auto 1.25rem; border: 18px solid #80439f; }
   .disability-rich .art-credit { text-align: center; font-size: 16px; margin-bottom: 3rem; }
   .disability-rich .lede { font-family: "Playfair Display", serif; font-size: 30px; line-height: 1.35; color: #301934; }
